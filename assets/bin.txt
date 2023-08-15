@@ -1,0 +1,59 @@
+ <div class="wrapper">
+      <div class="carousal">
+        <figure id="cards">
+          <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+          <figcaption>The Day</figcaption>
+      </figure>
+      <figure id="cards">
+        <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+        <figcaption>The Day</figcaption>
+    </figure>
+    <figure id="cards">
+      <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+      <figcaption>The Day</figcaption>
+  </figure>
+  <figure id="cards">
+    <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+    <figcaption>The Day</figcaption>
+</figure>
+<figure id="cards">
+  <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+  <figcaption>The Day</figcaption>
+</figure>
+      </div>
+    </div>
+
+
+    ..
+
+    <figure id="cards swiper-slide">
+  <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+  <figcaption>The Day</figcaption>
+</figure>
+
+..
+
+<div class="wrapper swiper mySwipe">
+      <div class="carousal swiper-wrapper">
+        <figure id="cards swiper-slide">
+          <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+          <figcaption>The Day</figcaption>
+      </figure>
+      <figure id="cards swiper-slide">
+        <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+        <figcaption>The Day</figcaption>
+    </figure>
+    <figure id="cards swiper-slide">
+      <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+      <figcaption>The Day</figcaption>
+  </figure>
+  <figure id="cards swiper-slide">
+    <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+    <figcaption>The Day</figcaption>
+</figure>
+<figure id="cards swiper-slide">
+  <img src="https://picsum.photos/id/287/250/300" alt="Mountains">
+  <figcaption>The Day</figcaption>
+</figure>
+      </div>
+    </div>
